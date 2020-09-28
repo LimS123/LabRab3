@@ -1,0 +1,13 @@
+C:\Users\User\Documents\labs2K\LabRab3\bin\Debug\netcoreapp3.1\LabRab3.exe
+C:\Users\User\Documents\labs2K\LabRab3\bin\Debug\netcoreapp3.1\LabRab3.deps.json
+C:\Users\User\Documents\labs2K\LabRab3\bin\Debug\netcoreapp3.1\LabRab3.runtimeconfig.json
+C:\Users\User\Documents\labs2K\LabRab3\bin\Debug\netcoreapp3.1\LabRab3.runtimeconfig.dev.json
+C:\Users\User\Documents\labs2K\LabRab3\bin\Debug\netcoreapp3.1\LabRab3.dll
+C:\Users\User\Documents\labs2K\LabRab3\bin\Debug\netcoreapp3.1\LabRab3.pdb
+C:\Users\User\Documents\labs2K\LabRab3\obj\Debug\netcoreapp3.1\LabRab3.csprojAssemblyReference.cache
+C:\Users\User\Documents\labs2K\LabRab3\obj\Debug\netcoreapp3.1\LabRab3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\labs2K\LabRab3\obj\Debug\netcoreapp3.1\LabRab3.AssemblyInfoInputs.cache
+C:\Users\User\Documents\labs2K\LabRab3\obj\Debug\netcoreapp3.1\LabRab3.AssemblyInfo.cs
+C:\Users\User\Documents\labs2K\LabRab3\obj\Debug\netcoreapp3.1\LabRab3.dll
+C:\Users\User\Documents\labs2K\LabRab3\obj\Debug\netcoreapp3.1\LabRab3.pdb
+C:\Users\User\Documents\labs2K\LabRab3\obj\Debug\netcoreapp3.1\LabRab3.genruntimeconfig.cache
